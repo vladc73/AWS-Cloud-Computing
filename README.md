@@ -4,7 +4,7 @@
 I recently completed the AWS Cloud Computing labs with a profound interest in technology and a dedication to solving complex problems in the cloud.
 
 ## Objective
-My journey in Information Technology has led me to develop a passion for cloud computing, and I am now eager to transition into this field, specifically aiming to be a Cloud Security Analyst.
+My journey in Information Technology has led me to develop a passion for cloud computing, and I am now eager to transition into this field, specifically aiming to be a Cloud Administrator.
 
 ## Lab Exercises
 | Labs                                        | Associated Project         |
