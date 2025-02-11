@@ -25,7 +25,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Microsoft Azure-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals -FF0000?&style=for-the-badge&logo=Amazon&logoColor=blue" />   
+<img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals -FF0000?&style=for-the-badge&logo=Microsoft&logoColor=blue" />   
 </div>
 
 ## Certifications
@@ -33,5 +33,5 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Cybersecurity_Boot_Camp-007ACC?&style=for-the-badge&logo=ZTM_Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Data_Analytics-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=black" />
-<img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals -FF0000?&style=for-the-badge&logo=Amazon&logoColor=blue" />  
+<img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals -FF0000?&style=for-the-badge&logo=Microsoft&logoColor=blue" />  
 </div>
