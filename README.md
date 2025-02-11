@@ -24,7 +24,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Tools
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft Azure-1679A7?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner_Essentials -FF0000?&style=for-the-badge&logo=Amazon&logoColor=black" />
 <img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals -FF0000?&style=for-the-badge&logo=Microsoft&logoColor=blue" />   
 </div>
 
