@@ -8,7 +8,7 @@ My journey in Information Technology has led me to develop a passion for cloud c
 | Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Getting started with Storage          | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Storage%20Lab">Storage Lab</a>|
-| Getting started with Cloud Operations         | <a href="">Cloud Operations Lab</a>|
+| Getting started with Cloud Operations         | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Getting%20Started%20with%20Compute%20Simulation%20Instructions.pdf">Cloud Operations Lab</a>|
 | Getting started with Compute         | <a href="Azure Firewall">Compute Lab</a>|
 | Getting started with Databases     | <a href="">Databases</a>|
 | Getting started with Serverless                  | <a href="Securing Azure SQL Database">Serverless Lab </a>|
