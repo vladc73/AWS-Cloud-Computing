@@ -7,7 +7,7 @@ My journey in Information Technology has led me to develop a passion for cloud c
 ## Lab Exercises
 | Labs                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Getting started with Storage          | <a href="Role-Based Access Control">Role Based Access Control Lab</a>|
+| Getting started with Storage          | <a href="https://github.com/vladc73/AWS-Cloud-Computing/blob/main/Storage%20Lab">Storage Lab</a>|
 | Getting started with Cloud Operations         | <a href="Network Security Groups and Application Security Groups">Network Security Groups and Application Security Groups</a>|
 | Getting started with Compute         | <a href="Azure Firewall">Azure Firewall</a>|
 | Getting started with Databases     | <a href="Configuring and Securing ACR and AKS">Configuring and Securing ACR and AKS</a>|
